@@ -30,7 +30,7 @@ Mobile Preview <br>
 
 ### Links
 
-- Solution URL: [My solution]()
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/profile-card-using-html-and-css-zcc2c1UCkN)
 - Live Site URL: [My live site](https://gians1821.github.io/profile-card-component/)
 
 ## My process
