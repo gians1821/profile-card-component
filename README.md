@@ -21,13 +21,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-Desktop Preview
-
+Desktop Preview <br>
 ![desktop-preview](image.png)
 
 
-Mobile Preview
-
+Mobile Preview <br>
 ![mobile-preview](image-1.png)
 
 ### Links
