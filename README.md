@@ -22,10 +22,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 Desktop Preview
+
 ![desktop-preview](image.png)
 
 
 Mobile Preview
+
 ![mobile-preview](image-1.png)
 
 ### Links
