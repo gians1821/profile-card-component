@@ -31,7 +31,7 @@ Mobile Preview <br>
 ### Links
 
 - Solution URL: [My solution]()
-- Live Site URL: [My live site]()
+- Live Site URL: [My live site](https://gians1821.github.io/profile-card-component/)
 
 ## My process
 
