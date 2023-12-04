@@ -27,6 +27,7 @@ Desktop Preview
 
 Mobile Preview
 ![mobile-preview](image-1.png)
+---
 
 ### Links
 
